@@ -129,7 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Fun.cpp" />
-    <ClCompile Include="win32 day4.cpp" />
+    <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Fun.h" />
@@ -148,7 +148,7 @@
     <None Include="cursor2.cur" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="highestscore.txt" />
+    <Text Include="HighestScore.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
